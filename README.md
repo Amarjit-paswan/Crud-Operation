@@ -9,3 +9,10 @@
   <li>Read Details</li>
   <li>Pop Modal Design</li>
 </ul>
+<h2>Note:</h2>
+<b>Step1= </b>Create a Database (Name:php_oop)<br>
+<b>Step2= </b>Create a Table "CREATE TABLE `user_data` (<br>
+ 			 `id` int(255) NOT NULL,<br>
+  			`user_name` varchar(255) NOT NULL,<br>
+  			`user_email` varchar(255) NOT NULL<br>
+				)"
